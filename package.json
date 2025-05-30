@@ -26,7 +26,9 @@
     "start": "run-p build-token watch watch-bench start-server"
   },
   "files": [
-    "dist/mapbox-gl-draw*"
+    "dist/mapbox-gl-draw*",
+    "index.js",
+    "src"
   ],
   "repository": {
     "type": "git",
